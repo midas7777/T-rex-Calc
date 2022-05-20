@@ -20,8 +20,6 @@ btn.addEventListener('click', function(){
       `Error!`
    }
 
-console.log(finalPrice);
-console.log(finalPrice1);
 
 })
 
